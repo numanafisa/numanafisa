@@ -162,21 +162,13 @@
     </div>
 </section>
 
-<section class="reviews">
-    <h2>Customer Reviews</h2>
-</section>
-
-<section class="connect">
-    <h2>Connect with Us</h2>
+<footer>
+     <h2>Connect with Us</h2>
     <a href="https://facebook.com" target="_blank"><i class="fab fa-facebook"></i> Facebook</a>
     <a href="https://instagram.com" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
     <a href="https://twitter.com" target="_blank"><i class="fab fa-twitter"></i> Twitter</a>
     <a href="mailto:info@bloomboutique.com"><i class="fas fa-envelope"></i> Email Us</a>
-</div>
-</section>
-
-<footer>
-    <p>&copy; 2025 Bloom Boutique. All rights reserved.</p>
+<p>&copy; 2025 Bloom Boutique. All rights reserved.</p>
 </footer>
 
 </body>
